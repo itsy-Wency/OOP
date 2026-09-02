@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\bin\Debug\net8.0\InheritanceEncapsulation.exe
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\bin\Debug\net8.0\InheritanceEncapsulation.deps.json
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\bin\Debug\net8.0\InheritanceEncapsulation.runtimeconfig.json
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\bin\Debug\net8.0\InheritanceEncapsulation.dll
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\bin\Debug\net8.0\InheritanceEncapsulation.pdb
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\obj\Debug\net8.0\InheritanceEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\obj\Debug\net8.0\InheritanceEncapsulation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\obj\Debug\net8.0\InheritanceEncapsulation.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\obj\Debug\net8.0\InheritanceEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\obj\Debug\net8.0\InheritanceEncapsulation.dll
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\obj\Debug\net8.0\refint\InheritanceEncapsulation.dll
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\obj\Debug\net8.0\InheritanceEncapsulation.pdb
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\obj\Debug\net8.0\InheritanceEncapsulation.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\OOP2\InheritanceEncapsulation\obj\Debug\net8.0\ref\InheritanceEncapsulation.dll
